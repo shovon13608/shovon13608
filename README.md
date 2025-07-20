@@ -5,6 +5,7 @@ Frontend Developer
 ------------------
 
 I am a frontend developer who loves react
+https://komarev.com/ghpvc/?username=shovon13608&color=blue
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [shovonbiswas19@gmail.com](mailto:shovonbiswas19@gmail.com)
